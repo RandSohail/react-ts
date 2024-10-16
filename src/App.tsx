@@ -1,9 +1,9 @@
-import { NavBar } from "./components";
+import { NavBar } from './components';
 function App() {
   return (
     <>
       <NavBar />
-      <h1>Hello World</h1>
+      <h1 style={{ marginLeft: '100px' }}>Hello, Rand Sohail</h1>
     </>
   );
 }
